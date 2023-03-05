@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Copy to Clipboard",
+    "version": "1.0",
+    "description": "A Chrome extension to copy content to the clipboard.",
+    "permissions": ["clipboardWrite"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
